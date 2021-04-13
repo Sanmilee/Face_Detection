@@ -4,7 +4,7 @@ Face and other object detection using OpenCV and ML
 ***
 ### Face detection
 
-![images](images/abba.png)
+![images](images/abba.PNG)
 
 ![images2](images/res1.png)
 
