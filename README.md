@@ -6,10 +6,10 @@ Face and other object detection using OpenCV and ML
 
 ![images](images/abba.PNG)
 
-![images2](images/res1.png)
+![images2](images/res1.PNG)
 
 ***
-![images3](images/little_mix.JPG)
+![images3](images/little_mix.jpg)
 
 
-![images4](images/res2.png)
+![images4](images/res2.PNG)
